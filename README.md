@@ -15,8 +15,8 @@ Since I started my journey in programming, I've been focused on web development,
 I look forward to the opportunity to collaborate with you on exciting web development projects in the future!
 
 - 🌱 I’m currently learning **Next.js & NestJS**
-
-- 👨‍💻 All of my projects are available at [codiegos.vercel.app](codiegos.vercel.app)
+  
+- 👨‍💻 All of my projects are available at [codiegos.vercel.app](https://codiegos.vercel.app/#projects)
 
 - 📫 How to reach me **codiegos.outlook.com**
 
