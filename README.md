@@ -18,7 +18,7 @@ I look forward to the opportunity to collaborate with you on exciting web develo
   
 - 👨‍💻 All of my projects are available at [codiegos.vercel.app](https://codiegos.vercel.app/#projects)
 
-- 📫 How to reach me **codiegos.outlook.com**
+- 📫 How to reach me **codiegos@outlook.com**
 
 ### 🛠 My Knowledge
 
